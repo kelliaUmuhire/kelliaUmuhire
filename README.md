@@ -74,7 +74,7 @@ I am also an open-source developer. I learned a lot from the open-source communi
 
 #### **Wanna Contact me for Bussiness**
 
-- :email: kellumuhire@gmail.com
+- 📧: kellumuhire@gmail.com
 
 #### **🎨 Profile Visits**
 
