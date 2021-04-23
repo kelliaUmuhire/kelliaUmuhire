@@ -19,7 +19,7 @@ I am also an open-source developer. I learned a lot from the open-source communi
 - 🌱 I’m currently advancing my skills in Java, C#, Docker
 - 💬 Ask me about React, Node.js, React Native, I am happy to help
 - 🎮 I'm passionate about game development and also skilled in Unity and C#
-- ⚡ Fun fact: I know it's crazy, but I love to eat hhhhh
+- ⚡ Fun fact: I know it's crazy, but I love animations
 
 <!-- TODO: Add resume -->
 <!-- - 📝Know about my experiences [Resume](https://drive.google.com/file/d/1ThQQJJtY_ool8zZRp6TcC5XWTYM7I2_W/view?usp=sharing) -->
