@@ -16,7 +16,7 @@ I am also an open-source developer. I learned a lot from the open-source communi
 - 👯 I’m looking to collaborate on web development, open source project.
 - 📫 How to reach me: kellumuhire@gmail.com.
 - 😄 Pronouns: her/she.
-- 🌱 I’m currently advancing my skills in Java, Python, Docker
+- 🌱 I’m currently advancing my skills in Java, C#, Docker
 - 💬 Ask me about React, Node.js, React Native, I am happy to help
 - 🎮 I'm passionate about game development and also skilled in Unity and C#
 - ⚡ Fun fact: I know it's crazy, but I love to eat hhhhh
