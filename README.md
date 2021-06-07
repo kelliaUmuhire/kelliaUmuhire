@@ -1,25 +1,23 @@
-## Hey there ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hey there!
 
-Hi, **I'm Kelia Umuhire**, a full stack sofware developer, Game developer, Embedded system developer from Rwanda. My passion for software engeneering lies in realising ideas with codes and elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, **I'm Kelia Umuhire**. I'm a software engineer and game developer.
 
-Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
+### About me
 
-I am also an open-source developer. I learned a lot from the open-source community and I love collaborating and sharing knowledge with other developers around the world.
+I like to apply my exprience and knowledge and get opportunities to learn and develop new skills. I strive to making the end products interactive and accurate.
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KelliaUmuhire) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kellia-umuhire-40497a183/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kellumuhire@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelliaUmuhire) [![Twitter Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11397964/keller) [![Twitter Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://stackoverflow.com/users/11397964/keller) [![Twitter Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kelliaumuhire)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KelliaUmuhire) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kellia-umuhire-40497a183/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kellumuhire@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelliaUmuhire) [![Twitter Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11397964/keller) [![Twitter Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://stackoverflow.com/users/11397964/keller) [![Twitter Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kelliaumuhire)
 
 <!-- TODO: Add last video link -->
 
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 - 👯 I’m looking to collaborate on web development, open source project.
 - 📫 How to reach me: kellumuhire@gmail.com.
-- 😄 Pronouns: her/she.
 - 🌱 I’m currently advancing my skills in Java, C#, Docker
 - 💬 Ask me about React, Node.js, React Native, I am happy to help
 - 🎮 I'm passionate about game development and also skilled in Unity and C#
-- ⚡ Fun fact: I know it's crazy, but I love animations
 
 <!-- TODO: Add resume -->
 <!-- - 📝Know about my experiences [Resume](https://drive.google.com/file/d/1ThQQJJtY_ool8zZRp6TcC5XWTYM7I2_W/view?usp=sharing) -->
@@ -28,9 +26,8 @@ I am also an open-source developer. I learned a lot from the open-source communi
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) [![VueJS Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
-[![c Badge](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&labelColor=white&logo=php&logoColor=777BB4)](#)
 [![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
 [![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#)
 
@@ -66,9 +63,6 @@ I am also an open-source developer. I learned a lot from the open-source communi
 ![WordPress](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
-🧐 **Good Knowledge of:**<br>
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Nextjs`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
-
 🌍 **Deployment platforms:**<br>
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
@@ -92,16 +86,17 @@ I am also an open-source developer. I learned a lot from the open-source communi
 <a href="https://github.com/kelliaUmuhire">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelliaUmuhire&theme=radical&hide_langs_below=1" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelliaUmuhire&repo=Translat&theme=radical&layout=compact) ](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelliaUmuhire&repo=podpool&theme=radical&layout=compact) ](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelliaUmuhire&repo=DailyBackground&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelliaUmuhire&repo=react-slack-clone&theme=radical&layout=compact) ](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Visitors -->
 <!-- Footer -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="40" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-<br />
+<br /> -->
 
-![Visitor Count](https://profile-counter.glitch.me/kelliaUmuhire/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/kelliaUmuhire/count.svg) -->
