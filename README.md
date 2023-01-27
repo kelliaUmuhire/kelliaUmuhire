@@ -1,6 +1,6 @@
 ## Hello!
 
-Welcome to my Github Account. **I'm Kelia Umuhire**. I'm a software engineer, specilizing in web and mobile development.
+Welcome to my Github Account! **I'm Kelia Umuhire**, a software developer based in Rwanda.  
 
 ### About me
 
