@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Kellia] [Umuhire]!
+# 👋 Hi, I'm Kellia Umuhire!
 
 ## 🚀 About Me
 I'm a developer passionate about building web applications using React. I'm constantly learning and exploring new technologies to enhance my skills and contribute to exciting projects.
