@@ -11,3 +11,5 @@ I'm a developer passionate about building web applications using React. I'm cons
 - Advanced React concepts
 - Advanced DevOps concepts
 
+
+![Codewars](https://www.codewars.com/users/kellia-umuhire/badges/small)
