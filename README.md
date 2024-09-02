@@ -9,5 +9,5 @@ I'm a developer passionate about building web applications using React. I'm cons
 
 ## 🌱 Currently Learning
 - Advanced React concepts
-- Backend development with Node.js
+- Advanced DevOps concepts
 
